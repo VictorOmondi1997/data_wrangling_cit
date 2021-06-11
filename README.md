@@ -62,7 +62,8 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Change the directory to `data_wrangling_cit`
    ```sh
-   cd data_wrangling_cit```
+   cd data_wrangling_cit
+   ```
 3. Create an environment
    ```sh
    python3 -m venv env
