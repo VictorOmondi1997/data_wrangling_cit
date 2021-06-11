@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Victor Omondi - [@VictorOmondi197](https://twitter.com/VictorOmondi197) - email
+Victor Omondi - [@VictorOmondi197](https://twitter.com/VictorOmondi197) - <a href="mailto:info.victoromondi@gmail.com">info.victoromondi@gmail.com</a>
 
 Project Link: [https://github.com/VictorOmondi1997/data_wrangling_cit](https://github.com/VictorOmondi1997/data_wrangling_cit)
 
