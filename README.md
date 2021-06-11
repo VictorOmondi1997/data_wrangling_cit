@@ -32,9 +32,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Event Banner](img/event_banner.png)
+<p><img style="float: left;margin:5px 20px 5px 1px;width:500px" src="img/event_banner.png"></p>
 
 This repository hosts data and notebook used in the Data Wrangling in Python, a CIT Club event held on Jun 11<sup>th</sup>, 2021ion`
+
+
 
 
 <!--### Built With
