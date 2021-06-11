@@ -64,7 +64,8 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Change the directory to `data_wrangling_cit`
    ```sh
-   cd data_wrangling_cit```
+   cd data_wrangling_cit
+   ```
 3. Create an environment
    ```sh
    python3 -m venv env
@@ -123,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Victor Omondi - [@VictorOmondi197](https://twitter.com/VictorOmondi197) - email
+Victor Omondi - [@VictorOmondi197](https://twitter.com/VictorOmondi197) - <a href="mailto:info.victoromondi@gmail.com">info.victoromondi@gmail.com</a>
 
 Project Link: [https://github.com/VictorOmondi1997/data_wrangling_cit](https://github.com/VictorOmondi1997/data_wrangling_cit)
 
